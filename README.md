@@ -13,9 +13,10 @@ In PostgreSQL, you have to create a database with the script "Modele_BDD.sql" an
 
 From a terminal, you must go to the "Project" folder
 
-1. Launch the file "main.py" (slow process : about 9min )
-2. ```set FLASK_APP=app.py```
-3. ```set FLASK_ENV=development```
-4. ```flask run```
-5. Open the given htpp address in a google chrome browser
+1. Unzip the .zip files in the "Datas" folder
+2. Launch the file "main.py" (slow process : about 9min )
+3. ```set FLASK_APP=app.py```
+4. ```set FLASK_ENV=development```
+5. ```flask run```
+6. Open the given htpp address in a google chrome browser
 
